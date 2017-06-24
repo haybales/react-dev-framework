@@ -1,0 +1,19 @@
+$primary-color: #333;
+$background-color: #FAFAFA;
+
+body{
+  background: $background-color;
+  color: $primary-color;
+}
+.main{
+  margin: 0 auto;
+  width: 700px;
+  h1{
+    font-family: Consolas, monospace;
+    font-weight: lighter;
+    letter-spacing: 0.1em;
+  }
+  p{
+    font-family: Arial
+  }
+}
